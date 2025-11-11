@@ -13,12 +13,14 @@ Formato baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/) e
 - `GITHUB_MANUAL.md` adaptado ao contexto do Projeto Câmeras, documentando fluxo Git/GitHub, checklist e papel do DevOps Agent.
 - `projeto_tecnico_poste/orcamento/caixa_servico/README.md` descrevendo os orçamentos da caixa interna.
 - `projeto_tecnico_poste/mapas/raw/metadata.md` registrando fonte e instruções dos shapefiles AISPs.
-- `docs/conteudo/projeto_cameras.md`, `docs/conteudo/documento_tecnico_cameras.md` e `docs/conteudo/orcamento_imaginatech_caixa.md`, criados a partir dos arquivos DOCX/HTML originais via conversão para Markdown.
+- `docs/conteudo/projeto_cameras.md`, `docs/conteudo/documento_tecnico_cameras.md`, `docs/conteudo/orcamento_imaginatech_caixa.md`, `docs/conteudo/README.md`, `docs/conteudo/sumario_executivo_cameras.md` e `docs/conteudo/apresentacao_2025-11.md`, preparando o repositório para trabalhar majoritariamente em Markdown.
+- Templates adicionais: `projeto_tecnico_poste/memorial_descritivo/memorial_tecnico_poste.md`, `projeto_tecnico_poste/entrada_requisitos/locais_instalacao.csv`, `projeto_tecnico_poste/mapas/pontos_instalacao.csv`, `projeto_tecnico_poste/orcamento/orcamento_resumo.csv`.
+- `docs/operacionais/PROCESSOS.md` descrevendo o fluxo ponta-a-ponta de atualização e revisão.
 
 ### Modificado
 - `inventario_arquivos.csv` passou a rastrear novos documentos (apresentação 2025-11, orçamentos da caixa, pacote de mapas).
-- `projeto_tecnico_poste/mapas/README.md` agora referencia o shapefile extraído `shp_limite_aisp_072024`.
-- Entradas dos DOCX/HTML legados atualizadas para apontar as novas fontes em Markdown.
+- `projeto_tecnico_poste/mapas/README.md` agora referencia o shapefile extraído `shp_limite_aisp_072024` e o template `pontos_instalacao.csv`.
+- Entradas dos DOCX/HTML legados atualizadas para apontar as novas fontes em Markdown e o inventário passou a incluir os novos templates/processos.
 
 ### Contexto
 - Preparação para publicar a primeira versão integrada no GitHub privado, garantindo que todas as pastas tenham instruções claras e inventário atualizado antes da sincronização inicial.

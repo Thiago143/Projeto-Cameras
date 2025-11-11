@@ -1,0 +1,6 @@
+Categoria,Item,Quantidade Planejada,Unidade,Custo Unitario (R$),Custo Total Previsto (R$),Fonte,Status,Observacoes
+Infraestrutura,Poste completo,,, , , ,Pendente,
+Caixa de Servico,Impressao ASA 3D,,,116.73, ,orcamento_imaginatech_caixa.md,Validar volume,
+Equipamentos,Camera Speed Dome,,,6219, ,lista_materiais.csv,Pendente,
+Conectividade,Roteador Mikrotik Hex S,,,599.49, ,lista_materiais.csv,Pendente,
+Energia,Fonte 12V 50A,,,33, ,lista_materiais.csv,Pendente,

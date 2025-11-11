@@ -7,7 +7,7 @@ Este repositório concentra toda a documentação e os artefatos necessários pa
 - `arquivo/` – Histórico de maio/2025 preservado para referência e auditoria.
 - `docs/operacionais/` – Guias de processo (`AGENTS.md`, checklists e DevOps).
 - `docs/conteudo/` – Versões em Markdown dos documentos legados (ex.: `projeto_cameras.md`, `documento_tecnico_cameras.md`, `orcamento_imaginatech_caixa.md`), usadas como fonte principal para futuras revisões.
-- `projeto_tecnico_poste/` – Módulo técnico (requisitos, normas, mapas, orçamentos, memorial descritivo, imagens e desenhos).
+- `projeto_tecnico_poste/` – Módulo técnico (requisitos, normas, mapas, orçamentos, memorial descritivo, imagens e desenhos). Inclui templates como `memorial_descritivo/memorial_tecnico_poste.md`, `entrada_requisitos/locais_instalacao.csv`, `mapas/pontos_instalacao.csv` e `orcamento/orcamento_resumo.csv`.
 - `inventario_arquivos.csv` – Inventário central com status (válido/atualizar/substituir) de cada arquivo.
 
 ## Fluxo de Trabalho

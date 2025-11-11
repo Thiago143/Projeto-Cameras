@@ -1,6 +1,6 @@
 # Documentação Operacional
 
-Espaço para guias de contribuição, instruções para agentes e notas de processo. Atualmente abriga `AGENTS.md` e `GEMINI.md`.
+Espaço para guias de contribuição, instruções para agentes e notas de processo. Atualmente abriga `AGENTS.md`, `GEMINI.md`, `DEVOPS_AGENT.md` e `PROCESSOS.md`.
 
 Uso recomendado:
 1. Centralize aqui toda a metodologia (fluxos de revisão, comandos, SLAs).
