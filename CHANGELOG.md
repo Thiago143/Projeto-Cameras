@@ -13,10 +13,12 @@ Formato baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/) e
 - `GITHUB_MANUAL.md` adaptado ao contexto do Projeto Câmeras, documentando fluxo Git/GitHub, checklist e papel do DevOps Agent.
 - `projeto_tecnico_poste/orcamento/caixa_servico/README.md` descrevendo os orçamentos da caixa interna.
 - `projeto_tecnico_poste/mapas/raw/metadata.md` registrando fonte e instruções dos shapefiles AISPs.
+- `docs/conteudo/projeto_cameras.md` e `docs/conteudo/documento_tecnico_cameras.md`, criados a partir dos DOCX originais via conversão para Markdown.
 
 ### Modificado
 - `inventario_arquivos.csv` passou a rastrear novos documentos (apresentação 2025-11, orçamentos da caixa, pacote de mapas).
 - `projeto_tecnico_poste/mapas/README.md` agora referencia o shapefile extraído `shp_limite_aisp_072024`.
+- Entradas dos DOCX legados atualizadas para apontar as novas fontes em Markdown.
 
 ### Contexto
 - Preparação para publicar a primeira versão integrada no GitHub privado, garantindo que todas as pastas tenham instruções claras e inventário atualizado antes da sincronização inicial.

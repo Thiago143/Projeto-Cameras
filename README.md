@@ -6,6 +6,7 @@ Este repositório concentra toda a documentação e os artefatos necessários pa
 - `base/` – Versões vigentes das entregas (ex.: `2025-11/PROJETO_DE_IMPLEMENTACAO...pdf`).
 - `arquivo/` – Histórico de maio/2025 preservado para referência e auditoria.
 - `docs/operacionais/` – Guias de processo (`AGENTS.md`, checklists e DevOps).
+- `docs/conteudo/` – Versões em Markdown dos documentos legados (ex.: `projeto_cameras.md`, `documento_tecnico_cameras.md`), usadas como fonte principal para futuras revisões.
 - `projeto_tecnico_poste/` – Módulo técnico (requisitos, normas, mapas, orçamentos, memorial descritivo, imagens e desenhos).
 - `inventario_arquivos.csv` – Inventário central com status (válido/atualizar/substituir) de cada arquivo.
 
