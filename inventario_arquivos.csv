@@ -1,10 +1,12 @@
 arquivo,data_criacao,tamanho_kb,categoria_sugerida,destino_sugerido,status,referencia_substituta
 AGENTS.md,2025-11-10 20:46,2.7,documentacao operacional,docs/operacionais/,valido,
+AISPshp_2025.rar,2025-11-10 21:26,1581.7,mapas fonte,projeto_tecnico_poste/mapas/raw/,extraido,
 Análises.pdf,2025-05-21 11:36,52.9,export pdf,arquivo/2025-05/,atualizar,
 Brasão_da_Polícia_Militar_do_Estado_do_Rio_de_Janeiro_-_PMERJ.png,2025-06-02 15:54,2160.1,brasao/identidade visual,base/2025-06-07/,valido,
 Captura de Tela 2025-05-13 às 15.33.55.png,2025-05-13 15:34,637.4,captura de tela,arquivo/2025-05/,substituir,
 Captura de Tela 2025-05-16 às 17.58.31.png,2025-05-16 17:58,2636.8,captura de tela,arquivo/2025-05/,substituir,
 GEMINI.md,2025-11-10 20:47,3.3,documentacao operacional,docs/operacionais/,valido,
+Orcamento_Projeto_2.pdf,2025-11-10 21:24,450.2,export pdf,projeto_tecnico_poste/orcamento/caixa_servico/,atualizar,
 PROJETO_DE_IMPLEMENTAÇÃO_DE_CÂMERAS_OSTENSIVAS-1.pdf,2025-11-10 21:04,14811.2,export pdf,base/2025-11/,valido,
 Projeto Câmeras.docx,2025-05-26 18:04,121.6,fonte editavel,arquivo/2025-05/,atualizar,
 brazao4.jpg,2025-05-16 16:15,135.5,outros,arquivo/2025-05/,substituir,base/2025-06-07/Brasão_da_Polícia_Militar_do_Estado_do_Rio_de_Janeiro_-_PMERJ.png
@@ -15,5 +17,6 @@ especificacoes_tecnicas_A4.pdf,2025-05-19 15:36,48.7,export pdf,arquivo/2025-05/
 guia_implementacao_A4.pdf,2025-05-19 15:35,54.4,export pdf,arquivo/2025-05/,atualizar,
 impacto_dissuasao_criminal_A4.pdf,2025-05-19 15:35,43.4,export pdf,arquivo/2025-05/,atualizar,
 implementacao_cameras_4bpm_print_20250518142735.pdf,2025-05-18 11:28,7639.4,export pdf,arquivo/2025-05/,atualizar,
+orcamento_imaginatech_caixa.html,2025-11-10 21:24,27.8,referencia fornecedor,projeto_tecnico_poste/orcamento/caixa_servico/,validar,
 pesquisa_sistemas_similares-1.pdf,2025-05-19 15:35,130.7,export pdf,arquivo/2025-05/,atualizar,
 sumario_executivo_cameras.pdf,2025-07-16 18:37,323.2,export pdf,base/2025-06-07/,valido,

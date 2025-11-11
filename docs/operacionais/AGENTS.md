@@ -21,3 +21,8 @@ When using Git, follow an imperative, topic-first format such as `docs: atualiza
 
 ## Security & Confidentiality
 Treat every file as sensitive: avoid committing raw footage or personal identifiers and store heavy media in encrypted systems outside Git. Strip EXIF metadata from PNG/JPG assets (`sips --stripImageMetadata brazao4.jpg`) before pushing to keep device details private.
+
+## DevOps Agent
+- **Contexto:** ver `docs/operacionais/DEVOPS_AGENT.md`.
+- **Função:** garantir versionamento e automações (CI/CD, exports, deploys).
+- **Ação:** antes de pedir push, confirme inventário, changelog e credenciais GitHub. O agente solicitará seus dados quando precisar sincronizar com o repositório remoto.
