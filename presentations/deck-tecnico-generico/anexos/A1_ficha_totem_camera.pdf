@@ -1,0 +1,33 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >> endobj
+4 0 obj << /Length 1195 >> stream
+BT /F1 16 Tf 72 760 Td (Ficha Técnica do Totem) Tj ET
+BT /F1 10 Tf 72 740 Td (Atualizado em 2025-11-18) Tj ET
+BT /F1 10 Tf 72 710 Td (DNA do Totem: estrutura modular PMERJ com altura útil 5 m e base enterrada 1 m.) Tj ET
+BT /F1 10 Tf 72 696 Td (Materiais: tubo PVC estrutural 100 mm + reforço 3/8'' preenchido com concreto fck25.) Tj ET
+BT /F1 10 Tf 72 682 Td (Compartimentos: gaveta técnica IP66/IK10, trilho DIN, tomada técnica 110/220 V.) Tj ET
+BT /F1 10 Tf 72 668 Td (Energia: rede primária + redundância nobreak 4 h. Suporta kit solar opcional.) Tj ET
+BT /F1 10 Tf 72 654 Td (Conectividade: [LINK_PRIMARIO] + rádio/4G de contingência, SLA 99,5%.) Tj ET
+BT /F1 10 Tf 72 640 Td (Sensores: PTZ 4 MP + LPR \(varifocal\), iluminação IR 50 m, ONVIF Profile S/T.) Tj ET
+BT /F1 10 Tf 72 626 Td (Antivandalismo: blindagem chapa 3 mm, parafusos invioláveis, porta com sensor reed.) Tj ET
+BT /F1 10 Tf 72 612 Td (Identidade visual: plotagem ostensiva neutra + ID físico visível.) Tj ET
+BT /F1 10 Tf 72 598 Td (Integrações mínimas: VMS PMERJ, COPOM/CICC e armazenamento redundante.) Tj ET
+BT /F1 10 Tf 72 584 Td (KPIs primários: Disponibilidade [UPTIME_ALVO], TME detecção, TMA despacho/chegada.) Tj ET
+endstream
+endobj
+5 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000001494 00000 n 
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+1564
+%%EOF

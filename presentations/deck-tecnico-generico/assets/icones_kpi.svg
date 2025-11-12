@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="220" viewBox="0 0 720 220">
+  <style>
+    .label { font: 16px 'Arial', sans-serif; fill: #0f172a; }
+    .value { font: bold 26px 'Arial', sans-serif; fill: #0b3d91; }
+  </style>
+  <rect width="720" height="220" rx="18" fill="#f5f7fb" stroke="#c7d2fe"/>
+  <g transform="translate(40,40)">
+    <circle cx="40" cy="40" r="32" fill="#e0e7ff" stroke="#312e81" stroke-width="2"/>
+    <path d="M25 45 L38 58 L58 30" fill="none" stroke="#312e81" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="120" y="32" class="label">Disponibilidade</text>
+    <text x="120" y="68" class="value">[UPTIME_ALVO]</text>
+  </g>
+  <g transform="translate(40,130)">
+    <rect x="10" y="-10" width="60" height="60" rx="12" fill="#dcfce7" stroke="#15803d" stroke-width="2"/>
+    <path d="M25 25 L50 25" stroke="#15803d" stroke-width="4" stroke-linecap="round"/>
+    <path d="M35 15 L35 35" stroke="#15803d" stroke-width="4" stroke-linecap="round"/>
+    <text x="120" y="22" class="label">Tempo Médio</text>
+    <text x="120" y="58" class="value">[TME_DETECCAO]</text>
+  </g>
+  <g transform="translate(380,40)">
+    <rect x="0" y="0" width="80" height="80" rx="18" fill="#e0f2fe" stroke="#0369a1" stroke-width="2"/>
+    <polyline points="15,60 35,45 45,50 65,30" fill="none" stroke="#0369a1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="120" y="32" class="label">KPIs de Resposta</text>
+    <text x="120" y="68" class="value">[TMA_DESPACHO]</text>
+  </g>
+  <g transform="translate(380,130)">
+    <circle cx="40" cy="20" r="20" fill="#fee2e2" stroke="#b91c1c" stroke-width="2"/>
+    <rect x="25" y="30" width="30" height="30" rx="10" fill="#fee2e2" stroke="#b91c1c" stroke-width="2"/>
+    <text x="120" y="32" class="label">Chegada em Campo</text>
+    <text x="120" y="68" class="value">[TMA_CHEGADA]</text>
+  </g>
+</svg>

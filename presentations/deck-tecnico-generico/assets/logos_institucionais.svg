@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320" viewBox="0 0 640 320" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder logos institucionais PMERJ</title>
+  <desc id="desc">Estrutura neutra para substituição posterior por brasões oficiais.</desc>
+  <rect width="640" height="320" fill="#f7f7f7"/>
+  <rect x="32" y="64" width="256" height="192" rx="24" fill="#0b3d91" opacity="0.85"/>
+  <rect x="352" y="64" width="256" height="192" rx="24" fill="#003b2f" opacity="0.85"/>
+  <text x="160" y="170" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#ffffff">PMERJ</text>
+  <text x="480" y="170" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#ffffff">Parceiro</text>
+  <text x="320" y="300" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#555555">Substitua estes blocos pelas marcas oficiais antes do envio</text>
+</svg>
